@@ -10,6 +10,7 @@ export default function Home() {
     <Link href = "/week-3" style={{ display: "block" }}>Week 3</Link>
     <Link href = "/week-4" style={{ display: "block" }}>Week 4</Link>
     <Link href = "/week-5" style={{ display: "block" }}>Week 5</Link>
+    <Link href = "/week-6" style={{ display: "block" }}>Week 6</Link>
     </main>
   );
 }
